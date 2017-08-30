@@ -1,5 +1,5 @@
 <package>
-  <name>universal_robot</name>
+  <name>universal_robots</name>
   <version>1.2.0</version>
   <description>
       Drivers, description, and utilities for Universal Robot Arms.
@@ -10,7 +10,7 @@
 
   <license>BSD</license>
 
-  <url type="website">http://ros.org/wiki/universal_robot</url>
+  <url type="website">http://ros.org/wiki/universal_robots</url>
 
   <author email="sedwards@swri.org">Shaun Edwards</author>
   <author>Stuart Glaser</author>
